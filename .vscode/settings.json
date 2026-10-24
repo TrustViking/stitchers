@@ -1,0 +1,9 @@
+{
+    "python.defaultInterpreterPath": "D:/_projects/stitchers/.venv_stitchers/Scripts/python.exe",
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": true,
+    "python.analysis.typeCheckingMode": "basic",
+    "editor.formatOnSave": true,
+    "python.formatting.provider": "black",
+    "python.analysis.autoImportCompletions": true
+}
